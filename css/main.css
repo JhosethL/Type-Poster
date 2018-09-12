@@ -1,0 +1,29 @@
+body {
+	background: url(../img/Background2.jpg) no-repeat 50% 50% ;
+	background-size: cover;
+}
+main {
+	width: 70%;
+	margin: 3rem auto 1.5rem;
+	padding: 3rem;
+	color: black;
+	background-color: white;
+	box-sizing: border-box;
+}
+main p {
+	color: orange;
+	text-align: center;
+}
+main h1 {
+	font-size: 6rem;
+	font-weight: 900;
+	outline: yellow;
+	font-family: 'Domine', serif;
+	font-weight: 700;
+}
+
+
+footer p {
+	text-align: center;
+
+}
