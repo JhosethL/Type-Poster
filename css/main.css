@@ -14,7 +14,7 @@ main p {
 	color: orange;
 	text-align: center;
 }
-main h1 {
+main h1, main h2 {
 	font-size: 6rem;
 	font-weight: 900;
 	outline: yellow;
