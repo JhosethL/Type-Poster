@@ -30,6 +30,15 @@ main h2{
 	font-weight: 150;
 }
 
+main p {
+	font-size: 2rem;
+	font-weight: 300;
+	outline: yellow;
+	font-family: 'Domine', serif;
+	font-weight: 150;
+	text-align: left;
+}
+
 footer p {
 	text-align: center;
 
