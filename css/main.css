@@ -37,6 +37,12 @@ main p, p1 {
 	text-align: left;
 }
 
+main p2 {
+	font-size: 0.75rem;
+	text-align: bottom right;
+
+}
+
 footer p {
 	text-align: center;
 
