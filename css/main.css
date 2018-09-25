@@ -28,19 +28,13 @@ main h2{
 }
 
 
-main p, p1 {
+main p {
 	font-size: 0.75rem;
 	font-weight: 300;
 	color: gray;
 	font-family: 'Domine', serif;
 	font-weight: 150;
 	text-align: left;
-}
-
-main p2 {
-	font-size: 0.75rem;
-	text-align: bottom right;
-
 }
 
 footer p {
